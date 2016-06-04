@@ -1,0 +1,28 @@
+name: Courtney Lesoon
+favicon: null
+layout_spectrum: 0.23826099606230855
+typography_spectrum: 0.8353590541519225
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5642632537055761
+  lightness: 0.7431611064821482
+  saturation: 0.12816578336060047
+  rhythmicContrast: 0.9034667441155761
+purpose: []
